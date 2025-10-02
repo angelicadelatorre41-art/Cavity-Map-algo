@@ -1,1 +1,1 @@
-# Cavity-Map-algo
+# Cavity-Map-algo The function checks each non-border cell in the grid and replaces it with 'X' if it is strictly greater than its adjacent cells. After processing all cells, it converts the grid back to a list of strings and returns the updated grid.
